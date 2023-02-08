@@ -1,0 +1,7 @@
+.btn.green {
+  @apply bg-[var(--color-green)];
+}
+
+.btn.blue {
+  @apply bg-[var(--color-blue)];
+}

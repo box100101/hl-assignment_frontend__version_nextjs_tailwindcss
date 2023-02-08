@@ -6,13 +6,13 @@ const headerSection: { textInTop: string; textInBottom: string } = {
 
 // body
 const bodySection: {
-    textJokeTitlel: string;
+    textJokeTitle: string;
     textJokeDes: string;
     textButtonFunny: string;
     textButtonNotFunny: string;
     textMessage: string;
 } = {
-    textJokeTitlel: "A joke a day keeps the doctor away",
+    textJokeTitle: "A joke a day keeps the doctor away",
     textJokeDes: "If you joke wrong way, your teeth have to pay. (Serious)",
     textButtonFunny: "This is Funny!",
     textButtonNotFunny: "This is not funny!.",
